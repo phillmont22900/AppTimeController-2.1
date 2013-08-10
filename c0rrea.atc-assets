@@ -1,0 +1,29 @@
+# This is the AppTimeController's hosts list
+# Do not edit this lists as it will cause fatal changes to your computer when you run AppTimeController
+# xpwnerd's c0rrea Server is the main server for all trial-extending scripts made by xpwnerd
+# Once again, do not edit them
+
+#! /bin/sh
+
+connect locales.apple.com
+connect region.apple.com
+connect asia.apple.com
+connect xyz.timeconnection.com
+connect theworldwideweb.connect.net/xml.connectiontime#www;http;https;ftp;ssh?=0
+connect server.c0rrea.xpwnerd.0.com
+connect server.c0rrea.xpwnerd.1.com
+connect server.c0rrea.xpwnerd.5.com
+connect dns.c0rrea.xpwnerd.15.com/#2:99
+
+request ch1n.c0rrea.xpwnerd.com/ch1n_one?="tick0"/xyticket?=2923837465366467/AppTimeController_TimeBeing.atc-tb-apple
+request ch1n.c0rrea.xpwnerd.com/ch1n_five?="tick5"/freeloader/AppTimeController_AssetsNumber918.atc-assets-apple
+request dns.c0rrea.xpwnerd.15.com/dns15.dns
+request dns.c0rrea.xpwnerd.15.com/dns14.dns
+request server.c0rrea.xpwnerd.com/gynneraload-9.0.atc-assets-apple
+
+set locales.apple.com -x /connectionTo?=192.168.1.1 -x Basic -x 00.00.00:00.00.01
+set region.apple.com -x /connectionTo?=192.168.1.1 -x Nex -x Apple Asia
+set asia.apple.com -x /timeBeing.xml -x Delete -x TurnOffOnConnectedDevices.js
+
+execute shell.sh
+execute exc.c0rrea.xpwnerd.com/executables/apptimecontroller/assets/jsAppleTimeBomb.atc-exc-apple
